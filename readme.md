@@ -14,3 +14,6 @@ git add <fileName>
 git commit -m "message here"
 git pull <remote> <branch>
 git push <remote> <branch>
+
+a remote is a copy of repo that lives somewhere else
+    in this case it lives on github
