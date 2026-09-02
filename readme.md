@@ -12,4 +12,5 @@ the most important cmds are
 git init
 git add <fileName>
 git commit -m "message here"
-
+git pull <remote> <branch>
+git push <remote> <branch>
