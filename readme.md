@@ -19,3 +19,6 @@ a remote is a copy of repo that lives somewhere else
     in this case it lives on github
 
 this is a change made on friday 04 9 26
+
+in order to fix the verification problem we added an ssh key
+    the terminal should now commit to git without issue
