@@ -17,3 +17,5 @@ git push <remote> <branch>
 
 a remote is a copy of repo that lives somewhere else
     in this case it lives on github
+
+this is a change made on friday 04 9 26
