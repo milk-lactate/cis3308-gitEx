@@ -22,3 +22,4 @@ this is a change made on friday 04 9 26
 
 in order to fix the verification problem we added an ssh key
     the terminal should now commit to git without issue
+    it did not work but now should
